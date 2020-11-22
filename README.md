@@ -23,7 +23,7 @@ The task of remembering the alphabet can be made slightly easier if it is re-arr
 
 * Connecting-words can be used (e.g. 'MEN FOCUS on QUEST') provided you always remember what the connecting-words are, and that they should be ignored.
 
-* Different words can be used. (See 'Alternate words for encoding', below.)
+* Different words can be used. (See '[Alternate words for encoding](#alternate-words-for-encoding)', below.)
 
 The letters `ACGLOQS` represent 'dits'; the letters `BDEFHKMNPRTUVWXYZ` represent 'dahs'. This is very easy to remember if you imagine a horizontal line is drawn across the top of the letters. All the 'dit-letters' will touch the line at a single point. All the 'dah-letters' will span the line, or touch the line at multiple points. The letters 'I' and 'J' are not used because they could be either a 'dit' or a 'dah' depending on the font that is used.
 
@@ -115,15 +115,15 @@ In the table below, you will have to use your imagination to get the Translitera
 | AT   | W      | Aay-Tee-W / Eighty **W**on                         | Eighty One       |
 | DE   | B      | Deh-**B**ee                                        | Debby            |
 | DT   | X      | Dee-Tee-Ex / Dee-Tuh-Ex                            | Detects          |
-| EE   | I      | Eee-Eee Into It / Eeeee's **I**nto **I**t          | Ease Into It     |
+| EE   | I      | Eee-Eee Into It / Eeeee's **I**nto It              | Ease Into (It)   |
 | ET   | A      | (Estimated Time of Arrival)                        | ETA              |
 | GE   | Z      | Gee-Eee-Zuh / Geeee**Z**                           | Jeez             |
 | GT   | Q      | Gee Tee Queue / Gee Tee is **Q**ueute              | Gee, Tea Is Cute |
-| IE   | S      | Iye Eee Ce / Eye-yeece / Eye-yee**S**              | Ice              |
-| IT   | U      | I Tee **U**                                        | I Tease You      |
+| IE   | S      | Eye Eee Ce / Eye-yeece / Eye-yee**S**              | Ice              |
+| IT   | U      | Eye Tee **U**                                      | I Tease You      |
 | KE   | C      | Kay-Eee-Cee / Kay-eee-See                          | Casey            |
 | KT   | Y      | Kay-Tee Wye / Kay-Tee is Wyse / Kay-Tee Is **Y**'s | Katie is Wise    |
-| ME   | G      | Em-Eee G / Emmy **G**oes To                        | Emmy Goes To     |
+| ME   | G      | Em-Eee G / Emmy **G**oes (to)                      | Emmy Goes (To)   |
 | MT   | O      | Em-Tee / Empty (O is like zero, which is empty)    | Empty            |
 | NE   | D      | Enn-Eee Dee / Ann-Eee Dee / Any **D**              | Any Dick         |
 | NT   | K      | Enn-Tee Kay / Onn-Tee Kay / Auntie **K**ay         | Auntie Kay       |
@@ -153,14 +153,15 @@ So, `.--.` is the letter 'P'.
 
 Decode `-.-` using phrases in the table above.
 
-  1. Look at the first symbol. The first symbol is a '-', which is an 'T'. We now have 'T'.
+  1. Look at the first symbol. The first symbol is a '-', which is a 'T'. We now have 'T'.
 
-  1. Look at the second symbol. The second symbol is a '.', which is a 'E'. We now have 'TE'. Applying the phrase 'Teen' (Tee-Eee **N**) transforms the 'TE' into the letter 'N'.
+  1. Look at the second symbol. The second symbol is a '.', which is an 'E'. We now have 'TE'. Applying the phrase 'Teen' (Tee-Eee **N**) transforms the 'TE' into the letter 'N'.
 
-  1. Look at the third symbol. The third symbol is another '.', which is a 'E'. We now have 'NT'. Applying the phrase 'Auntie Kay' (En-Tee-**K**ay) transforms the 'NT' into the letter 'K'.
+  1. Look at the third symbol. The third symbol is a '-', which is a 'T'. We now have 'NT'. Applying the phrase 'Auntie Kay' (En-Tee-**K**ay) transforms the 'NT' into the letter 'K'.
 
 So, `-.-` is the letter 'K'.
 
+As you become more familiar with Morse code, you will be able to skip steps. For example, once you know that '--' is 'M', when decoding something like '--.-', you can immediately replace the first two symbols ('--') with 'M' and then proceed with step-by-step decoding. Eventually you will be able to recognize entire sequences without having to perform any step-by-step decoding.
 
 
 # Notes
@@ -211,6 +212,7 @@ General tips for making a 'good' alphabet. (The word examples given below may no
  * Use 'simple-to-spell' words. (e.g. 'XHOSA' could be used, but might be difficult to spell)
  * Avoid double letters that could be mistaken for single letters (e.g. 'BRAGG'/'BRAG')
  * Avoid similar-sounding words (e.g. 'YEOMEN'/'OMEN')
+ * Changing a word's function may help when building sentences (e.g. 'FLORA' can be a name or a noun)
  * Try to make sentences grammatically correct. (e.g. When the verb and noun agree, they check each other 'MAN SAYS HI'.)
 
 ### Alternate phrases for decoding
