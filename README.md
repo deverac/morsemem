@@ -8,7 +8,7 @@ When discussing Morse code it is common to use 'dit' to represent '.' and 'dah' 
 
 Encoding text into Morse Code can be done with the following alphabet:
 
-__A__CE, __B__RASS, __C__RAWL, __D__ULL, __E__G, __F__OCUS, __G__ETS, __H__ALLS, __I__LL, __J__ADED, __K__ELP, __L__OYAL, __M__EN, __N__BC, __O__VER, __P__ANEL, __Q__UEST, __R__ATS, __S__OLO, __T__V, __U__GLY, __V__ALOR, __W__ONT, E__X__POSE, __Y__UCKY, __Z__EROS
+**A**CE, **B**RASS, **C**RAWL, **D**ULL, **E**G, **F**OCUS, **G**ETS, **H**ALLS, **I**LL, **J**ADED, **K**ELP, **L**OYAL, **M**EN, **N**BC, **O**VER, **P**ANEL, **Q**UEST, **R**ATS, **S**OLO, **T**V, **U**GLY, **V**ALOR, **W**ONT, E**X**POSE, **Y**UCKY, **Z**EROS
 
 The task of remembering the alphabet can be made slightly easier if it is re-arranged into meaningful (but silly) sentences.
 
@@ -111,41 +111,41 @@ In the table below, you will have to use your imagination to get the Translitera
 
 | Pair | Result |  Transliteration                                   | Phrase           |
 |------|--------|----------------------------------------------------|------------------|
-| AE   | R      | Aay Eee Er / Ayea__R__                             | A Year           |
-| AT   | W      | Aay-Tee-W / Eighty __W__on                         | Eighty One       |
-| DE   | B      | Deh-__B__ee                                        | Debby            |
+| AE   | R      | Aay Eee Er / Ayea**R**                             | A Year           |
+| AT   | W      | Aay-Tee-W / Eighty **W**on                         | Eighty One       |
+| DE   | B      | Deh-**B**ee                                        | Debby            |
 | DT   | X      | Dee-Tee-Ex / Dee-Tuh-Ex                            | Detects          |
-| EE   | I      | Eee-Eee Into It / Eeeee's __I__nto __I__t          | Ease Into It     |
+| EE   | I      | Eee-Eee Into It / Eeeee's **I**nto **I**t          | Ease Into It     |
 | ET   | A      | (Estimated Time of Arrival)                        | ETA              |
-| GE   | Z      | Gee-Eee-Zuh / Geeee__Z__                           | Jeez             |
-| GT   | Q      | Gee Tee Queue / Gee Tee is __Q__ueute              | Gee, Tea Is Cute |
-| IE   | S      | Iye Eee Ce / Eye-yeece / Eye-yee__S__              | Ice              |
-| IT   | U      | I Tee __U__                                        | I Tease You      |
+| GE   | Z      | Gee-Eee-Zuh / Geeee**Z**                           | Jeez             |
+| GT   | Q      | Gee Tee Queue / Gee Tee is **Q**ueute              | Gee, Tea Is Cute |
+| IE   | S      | Iye Eee Ce / Eye-yeece / Eye-yee**S**              | Ice              |
+| IT   | U      | I Tee **U**                                        | I Tease You      |
 | KE   | C      | Kay-Eee-Cee / Kay-eee-See                          | Casey            |
-| KT   | Y      | Kay-Tee Wye / Kay-Tee is Wyse / Kay-Tee Is __Y__'s | Katie is Wise    |
-| ME   | G      | Em-Eee G / Emmy __G__oes To                        | Emmy Goes To     |
+| KT   | Y      | Kay-Tee Wye / Kay-Tee is Wyse / Kay-Tee Is **Y**'s | Katie is Wise    |
+| ME   | G      | Em-Eee G / Emmy **G**oes To                        | Emmy Goes To     |
 | MT   | O      | Em-Tee / Empty (O is like zero, which is empty)    | Empty            |
-| NE   | D      | Enn-Eee Dee / Ann-Eee Dee / Any __D__              | Any Dick         |
-| NT   | K      | Enn-Tee Kay / Onn-Tee Kay / Auntie __K__ay         | Auntie Kay       |
+| NE   | D      | Enn-Eee Dee / Ann-Eee Dee / Any **D**              | Any Dick         |
+| NT   | K      | Enn-Tee Kay / Onn-Tee Kay / Auntie **K**ay         | Auntie Kay       |
 | RE   | L      | Are-Eee-El / Ar-ee-el                              | Ariel            |
-| SE   | H      | Ess-Eee Aich / Ess-ayy-aich / Essay __H__          | Essay H          |
-| ST   | V      | STee__v__                                          | Steve            |
-| TE   | N      | Tee-Eee __N__                                      | Teen             |
-| TT   | M      | Tee-Tee __M__eat                                   | Titty Meat       |
-| UE   | F      | You-Eee F / You-wee __F__                          | You, We Fuck     |
-| WE   | P      | Wh-Eee-Pee / Wee__P__ee                            | Weepy            |
-| WT   | J      | Wh-Tee Jay / Whi-tee __J__ay                       | Witty Jay(bird)  |
+| SE   | H      | Ess-Eee Aich / Ess-ayy-aich / Essay **H**          | Essay H          |
+| ST   | V      | STee**v**                                          | Steve            |
+| TE   | N      | Tee-Eee **N**                                      | Teen             |
+| TT   | M      | Tee-Tee **M**eat                                   | Titty Meat       |
+| UE   | F      | You-Eee F / You-wee **F**                          | You, We Fuck     |
+| WE   | P      | Wh-Eee-Pee / Wee**P**ee                            | Weepy            |
+| WT   | J      | Wh-Tee Jay / Whi-tee **J**ay                       | Witty Jay(bird)  |
 
 
 Decode `.--.` using the phrases in the table above.
 
   1. Look at the first symbol. The first symbol is a '.', which is an 'E'. We now have the letter 'E'.
 
-  1. Look at the second symbol. The second symbol is a '-', which is a 'T'. We now have 'ET'. Applying the phrase 'ETA' (ET__A__) transforms the 'ET' into the letter 'A'.
+  1. Look at the second symbol. The second symbol is a '-', which is a 'T'. We now have 'ET'. Applying the phrase 'ETA' (ET**A**) transforms the 'ET' into the letter 'A'.
 
-  1. Look at the third symbol. The third symbol is another '-', which is a 'T'. We now have 'AT'. Applying the phrase 'Eighty-one' (Aye-Tee-__W__on) transforms the 'AT' into the letter 'W'.
+  1. Look at the third symbol. The third symbol is another '-', which is a 'T'. We now have 'AT'. Applying the phrase 'Eighty-one' (Aye-Tee-**W**on) transforms the 'AT' into the letter 'W'.
 
-  1. Look at the fourth symbol. The fourth symbol is a '.', which in an 'E'. We now have 'WE'. Applying the phrase 'Weepy' (Wh-Eee __P__ee) transforms the 'WE' into the letter 'P'.
+  1. Look at the fourth symbol. The fourth symbol is a '.', which in an 'E'. We now have 'WE'. Applying the phrase 'Weepy' (Wh-Eee **P**ee) transforms the 'WE' into the letter 'P'.
 
 So, `.--.` is the letter 'P'.
 
@@ -155,9 +155,9 @@ Decode `-.-` using phrases in the table above.
 
   1. Look at the first symbol. The first symbol is a '-', which is an 'T'. We now have 'T'.
 
-  1. Look at the second symbol. The second symbol is a '.', which is a 'E'. We now have 'TE'. Applying the phrase 'Teen' (Tee-Eee N) transforms the 'TE' into the letter 'N'.
+  1. Look at the second symbol. The second symbol is a '.', which is a 'E'. We now have 'TE'. Applying the phrase 'Teen' (Tee-Eee **N**) transforms the 'TE' into the letter 'N'.
 
-  1. Look at the third symbol. The third symbol is another '.', which is a 'E'. We now have 'NT'. Applying the phrase 'Auntie Kay' (En-Tee-Kay) transforms the 'NT' into the letter 'K'.
+  1. Look at the third symbol. The third symbol is another '.', which is a 'E'. We now have 'NT'. Applying the phrase 'Auntie Kay' (En-Tee-**K**ay) transforms the 'NT' into the letter 'K'.
 
 So, `-.-` is the letter 'K'.
 
